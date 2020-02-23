@@ -1,7 +1,7 @@
 <?php
 require 'RepeatingLetters.php';
  
-class RepeatingLettersTests extends PHPUnit_Framework_TestCase
+class RepeatingLettersTest extends PHPUnit_Framework_TestCase
 { 
     protected function setUp()
     {
